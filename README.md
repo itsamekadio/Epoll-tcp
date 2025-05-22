@@ -132,7 +132,7 @@ This is the heart of the matter — and often the most misunderstood.
 
 ---
 
-## ⚖ Performance vs. Fault Tolerance: A Design Trade-Off
+##  Performance vs. Fault Tolerance: A Design Trade-Off
 
 Choosing between LT and ET is a classic **architecture trade-off**:
 
